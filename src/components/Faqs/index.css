@@ -1,0 +1,27 @@
+/* Write your code here. */
+.faqs-app {
+  background-color: #d7dae6;
+  min-height: 100vh;
+  padding: 20px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.faqs-card {
+  background-color: #ffffff;
+  border-radius: 7px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.faqs-heading {
+  color: #cb8805;
+  font-size: 42px;
+  font-family: 'Roboto';
+}
